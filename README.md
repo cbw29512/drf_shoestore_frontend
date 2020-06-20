@@ -1,3 +1,11 @@
+Shoestore front end
+
+link to back end:
+https://github.com/cbw29512/drf_shoestore
+
+Author: Chris Wilson
+Assisted: Sean, Koren, Matt
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
